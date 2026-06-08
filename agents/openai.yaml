@@ -1,0 +1,7 @@
+interface:
+  display_name: "投资分析报告 Skill"
+  short_description: "通过人机协作生成可迭代的投资分析报告"
+  default_prompt: "Use $investment-analysis-skill to help me discuss, draft, revise, and finalize an investment analysis report."
+
+policy:
+  allow_implicit_invocation: true
